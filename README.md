@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @juanrodriguez21
 - 👀 I’m interested in develope
 - 🌱 I’m currently learning git
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
